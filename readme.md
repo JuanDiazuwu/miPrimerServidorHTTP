@@ -55,11 +55,11 @@ El servidor se aloja en el puerto `4444`.
 
 ## Instrucciones de Uso
 
-* 1 .- Clona el repositorio.
+* 1 .- Clonar el repositorio.
 
-* 2 .- Abre una terminal en la raíz del repositorio clonado.
+* 2 .- Abrir una terminal en la raíz del repositorio clonado.
 
-* 3 .- Asegurese de tener instalado node.js
+* 3 .- Asegurarse de tener instalado node.js
 
 * 4 .- Ejecutar el siguiente comando en la terminal:
 
@@ -69,9 +69,9 @@ node app.js
 
 Esto hará que el servidor se inicialize.
 
-* 5 .- Abrir tu navegador de confianza.
+* 5 .- Abrir su navegador de confianza.
 
-* 6 .- EN la barra de busquedas escribir:
+* 6 .- En la barra de busquedas escribir:
 
 ```
 localhost:4444
@@ -85,12 +85,12 @@ Esto mostrará la pagina principal del sitio web.
 localhost:4444/about.html
 ```
 
-* 7.- Si se quiere acceder a la pagina `login` en la barra de busquedas poner:
+* 8.- Si se quiere acceder a la pagina `login` en la barra de busquedas poner:
 
 ```
 localhost:4444/registro.html
 ```
 
-* 8 .- Para apagar el servidor, dirijase a la terminal de antes y haga `Ctrl + C`,
+* 9 .- Para apagar el servidor, dirijase a la terminal de antes y haga `Ctrl + C`,
 
 Siéntase libre de clonar este repositorio y probar su funcionamiento. ¡Espero que le sea útil!
