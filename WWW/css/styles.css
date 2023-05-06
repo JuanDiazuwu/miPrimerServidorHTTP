@@ -1,3 +1,22 @@
-p {
-    background-color: #000000;
+p { 
+    font-size: 10px;
+    color: blue;
+}
+
+#link-about {
+    color: red;
+    border-style: dotted;
+}
+
+.link {
+    border: 5px solid salmon
+}
+
+#parrafo-importante {
+    border-style: solid;
+    padding-bottom: 200px;
+    padding-left: 80px;
+    padding-right:40px;
+    padding-top: 350px;
+    margin-bottom: 50px;
 }

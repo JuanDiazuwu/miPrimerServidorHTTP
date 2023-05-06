@@ -53,6 +53,14 @@ http.createServer((request, response) => {
                     response.writeHead(200, {"Content-Type":"image/jpeg"});
                     break;
 
+                case 'jpg':
+                    response.writeHead(200, {"Content-Type":"image/jpg"});
+                    break;
+
+                case 'png':
+                    response.writeHead(200, {"Content-Type":"image/png"});
+                    break;
+
                 default:
                     response.writeHead(200, {"Content-Type":"text/html"});
             }
